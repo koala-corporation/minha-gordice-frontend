@@ -1,6 +1,6 @@
 # minha-gordice-frontend
 
-> A Vue.js project
+> A Vue.js project + [VueMaterial](http://vuematerial.io/#/)
 
 ## IMPORTANTE
 Se você não seguir a style guide [standard](https://github.com/standard/standard), o projeto não irá compilar, pois é feito lintagem do código com base nesse style.
@@ -8,6 +8,7 @@ Se você não seguir a style guide [standard](https://github.com/standard/standa
  - Sugestão:
     * utilizar VSCode
     * instalar as extensões: beautify, debugger for Chrome, HTML CSS Support, Git History, Vue.js Extension Pack
+
 
 ## Build Setup
 
