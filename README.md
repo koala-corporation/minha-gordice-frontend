@@ -2,11 +2,18 @@
 
 > A Vue.js project
 
+## IMPORTANTE
+Se você não seguir a style guide [standard](https://github.com/standard/standard), o projeto não irá compilar, pois é feito lintagem do código com base nesse style.
+
+ - Sugestão:
+    * utilizar VSCode
+    * instalar as extensões: beautify, debugger for Chrome, HTML CSS Support, Git History, Vue.js Extension Pack
+
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+npm or yarn install
 
 # serve with hot reload at localhost:8080
 npm run dev
